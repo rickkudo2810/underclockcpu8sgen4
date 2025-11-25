@@ -1,0 +1,6 @@
+id=uv_controller
+name=Underclock CPU Snapdragon 8s Elite Gen 4
+version=v1.0
+versionCode=1
+author=Rick Earth
+description=Physical Limit Edition. Limits CPU Freqs (1.78G/1.92G/2.8G) & locks them against Joyose/Powerkeeper via infinite loop service.
